@@ -1,0 +1,16 @@
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\SeleniumDemo.dll
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\SeleniumDemo.pdb
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.dll
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.Support.dll
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.pdb
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.xml
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.Support.pdb
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.Support.xml
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.dll
+c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.pdb

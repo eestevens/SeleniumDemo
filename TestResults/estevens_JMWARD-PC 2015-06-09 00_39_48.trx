@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9969903a-4e7c-49ee-85b6-115e529b1457" name="estevens@JMWARD-PC 2015-06-09 00:39:48" runUser="CONSULT-CTS\estevens" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="562d6ba7-6e66-43bf-bec5-262a1ff7477e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="c:\users\estevens\documents\visual studio 2010\Projects\SeleniumDemo\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="estevens_JMWARD-PC 2015-06-09 00_39_48">
+      <DeploymentItem filename="c:\users\estevens\Downloads\selenium-dotnet-2.46.0\net40\WebDriver.dll" />
+      <DeploymentItem filename="c:\users\estevens\Downloads\selenium-dotnet-2.46.0\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="c:\users\estevens\Downloads\selenium-dotnet-2.46.0\net40\Selenium.WebDriverBackedSelenium.dll" />
+      <DeploymentItem filename="c:\users\estevens\Downloads\selenium-dotnet-2.46.0\net40\ThoughtWorks.Selenium.Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-06-09T00:39:48.5010346-05:00" queuing="2015-06-09T00:39:50.1341243-05:00" start="2015-06-09T00:39:50.2461338-05:00" finish="2015-06-09T00:41:58.1562725-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="JMWARD-PC" outcome="Error" timestamp="2015-06-09T00:41:58.1552715-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\estevens\documents\visual studio 2010\projects\seleniumdemo\seleniumdemo\bin\debug\seleniumdemo.dll" id="b961aecc-797b-5525-75e2-b7d169b0a636">
+      <Execution id="40017145-8cd9-4d27-8bf5-26921fc301bd" />
+      <TestMethod codeBase="c:/users/estevens/documents/visual studio 2010/Projects/SeleniumDemo/SeleniumDemo/bin/Debug/SeleniumDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SeleniumDemo.SampleTest, SeleniumDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b961aecc-797b-5525-75e2-b7d169b0a636" executionId="40017145-8cd9-4d27-8bf5-26921fc301bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="40017145-8cd9-4d27-8bf5-26921fc301bd" testId="b961aecc-797b-5525-75e2-b7d169b0a636" testName="TestMethod1" computerName="JMWARD-PC" duration="00:02:07.7491119" startTime="2015-06-09T00:39:50.4071606-05:00" endTime="2015-06-09T00:41:58.1562725-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="40017145-8cd9-4d27-8bf5-26921fc301bd">
+    </UnitTestResult>
+  </Results>
+</TestRun>
